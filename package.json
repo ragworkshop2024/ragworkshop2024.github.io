@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "watch:scss": "node-sass --w assets/sass/main.scss assets/css/main.css"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "name": "ragworkshop2024.github.io",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
