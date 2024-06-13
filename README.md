@@ -4,8 +4,9 @@
 1. Run `npm install`
 
 2. In VS Code, install the Live Server extension. When installed, you will see an item in the bottom right tray named "Go Live". Click that to start the live server. 
+3. NOTE: the live server does not seem to update in the preview window, you should go to the browser and refresh the page to see changes.
 
-3. In terminal, run `npm run watch:scss`. This script will watch for changes to the scss and will rebuild the css automatically upon change.
+4. In terminal, run `npm run watch:scss`. This script will watch for changes to the scss and will rebuild the css automatically upon change.
 
 Enjoy!
 
